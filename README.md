@@ -17,7 +17,8 @@
 - Electrical engineer | Universidad Tecnológica de Pereira (_July 2020_)
 
 ## Work Experience
-**Data Analyst and GIS Specialist | EDEQ - Energy Distribution Sub-Management (_October 2021 - Present_)**<br>
+**Data Analyst and GIS Specialist | EDEQ - Energy Distribution Sub-Management (_October 2021 - Present_)**
+
 As a Data Analyst and GIS Specialist, I manage data analysis and strategic planning for the operation and maintenance of electrical distribution networks. I lead projects that integrate quantitative and spatial analysis to optimize resources and enhance the reliability of the electrical system.
 
 My work includes:
@@ -26,7 +27,8 @@ My work includes:
 - Creating interactive dashboards in Power BI to visualize key performance indicators and project results, improving decision-making processes.
 - Automating administrative and operational processes, reducing time and costs with tools like Python and Excel.
 
-**Junior Data Analyst @ EDEQ - Operational management area (_August 2020 - October 2021_)**<br>
+**Junior Data Analyst @ EDEQ - Operational management area (_August 2020 - October 2021_)**
+
 As a Junior Data Analyst, I supported the operations and quality department by analyzing data and generating strategic reports to optimize processes and ensure compliance with standards.
 
 My work included:

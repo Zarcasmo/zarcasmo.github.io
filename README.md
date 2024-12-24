@@ -5,20 +5,19 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" width="40px" style="margin-right: 15px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40px" style="margin-right: 15px;"/>
-  <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="SQL" width="35px" style="margin-right: 15px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/800px-ArcGIS_logo.png" alt="ArcGis" width="40px" style="margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="Github" width="60px" style="margin-right: 15px;"/>
+  <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="SQL" width="30px" style="margin-right: 15px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/800px-ArcGIS_logo.png" alt="ArcGis" width="50px" style="margin-right: 15px;"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="Github" width="45px" style="margin-right: 15px;"/>
   <img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="Matlab" width="40px" style="margin-right: 15px;"/>
   <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" width="40px"/>
-</div>
-## 
+</div><br>
 
 ## Education					       		
 - Master in electrical engineering	| Universidad Tecnológica de Pereira (_December 2023_)	 			        		
 - Electrical engineer | Universidad Tecnológica de Pereira (_July 2020_)
 
 ## Work Experience
-**Data Analyst and GIS Specialist | EDEQ - Energy Distribution Sub-Management (_October 2021 - Present_)**
+**Data Analyst and GIS Specialist | EDEQ - Energy Distribution Sub-Management (_October 2021 - Present_)**<br>
 As a Data Analyst and GIS Specialist, I manage data analysis and strategic planning for the operation and maintenance of electrical distribution networks. I lead projects that integrate quantitative and spatial analysis to optimize resources and enhance the reliability of the electrical system.
 
 My work includes:
@@ -27,7 +26,7 @@ My work includes:
 - Creating interactive dashboards in Power BI to visualize key performance indicators and project results, improving decision-making processes.
 - Automating administrative and operational processes, reducing time and costs with tools like Python and Excel.
 
-**Junior Data Analyst @ EDEQ - Operational management area (_August 2020 - October 2021_)**
+**Junior Data Analyst @ EDEQ - Operational management area (_August 2020 - October 2021_)**<br>
 As a Junior Data Analyst, I supported the operations and quality department by analyzing data and generating strategic reports to optimize processes and ensure compliance with standards.
 
 My work included:

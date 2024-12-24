@@ -1,7 +1,13 @@
 # Data Analyst
 
-#### Technical Skills: 
 
+
+## Education					       		
+- Master in electrical engineering	| Universidad Tecnológica de Pereira (_December 2023_)	 			        		
+- Electrical engineer | Universidad Tecnológica de Pereira (_July 2020_)
+- Electrical technologist | Universidad Tecnológica de Pereira (_December 2016_)
+
+#### Technical Skills: 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" width="40px" style="margin-right: 15px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40px" style="margin-right: 15px;"/>
@@ -11,10 +17,6 @@
   <img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="Matlab" width="40px" style="margin-right: 15px;"/>
   <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" width="40px"/>
 </div><br>
-
-## Education					       		
-- Master in electrical engineering	| Universidad Tecnológica de Pereira (_December 2023_)	 			        		
-- Electrical engineer | Universidad Tecnológica de Pereira (_July 2020_)
 
 ## Work Experience
 **Data Analyst and GIS Specialist | EDEQ - Energy Distribution Sub-Management (_October 2021 - Present_)**

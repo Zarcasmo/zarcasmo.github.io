@@ -2,9 +2,19 @@
 
 #### Technical Skills: Python, Excel, SQL, ArcGIS, GitHub, Matlab, C++
 
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" width="60px" style="margin-right: 15px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="60px" style="margin-right: 15px;"/>
+  <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="SQL" width="45px" style="margin-right: 15px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/800px-ArcGIS_logo.png" alt="ArcGis" width="60px" style="margin-right: 15px;"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="Github" width="60px" style="margin-right: 15px;"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="Matlab" width="60px" style="margin-right: 15px;"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" width="60px"/>
+</div>
+
 ## Education					       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Master in electrical engineering	| Universidad Tecnológica de Pereira (_December 2023_)	 			        		
+- Electrical engineer | Universidad Tecnológica de Pereira (_July 2020_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**

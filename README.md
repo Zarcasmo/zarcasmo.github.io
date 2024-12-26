@@ -5,7 +5,7 @@
 ## Education					       		
 - Master in electrical engineering	| Universidad Tecnológica de Pereira (_December 2023_)	 			        		
 - Electrical engineer | Universidad Tecnológica de Pereira (_July 2020_)
-- Electrical technologist | Universidad Tecnológica de Pereira (_December 2016_)
+- Electrical technologist | Universidad Tecnológica de Pereira (_December 2016_)<br>
 
 ## Technical Skills
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
@@ -54,7 +54,7 @@ On the generated map, size and color indicators are used to represent the events
   <tr style="text-align: center; border: none;">
     <!-- Columna 1: Logo de Python -->
     <td style="padding: 10px; border: none;">
-      <img src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" alt="Python" width="30">
+      <img src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" alt="Python" width="50">
     </td>
     <!-- Columna 2: Texto "Libraries" centrado -->
     <td style="padding: 10px; font-weight: bold; text-align: center; vertical-align: middle; border: none;">
@@ -62,15 +62,15 @@ On the generated map, size and color indicators are used to represent the events
     </td>
     <!-- Columna 3: Logo de pandas -->
     <td style="padding: 10px; border: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="pandas" width="60">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="pandas" width="80">
     </td>
     <!-- Columna 4: Logo de geopandas -->
     <td style="padding: 10px; border: none;">
-      <img src="https://geopandas.org/en/stable/_images/geopandas_logo.png" alt="geopandas" width="90">
+      <img src="https://geopandas.org/en/stable/_images/geopandas_logo.png" alt="geopandas" width="110">
     </td>
     <!-- Columna 5: Logo de folium -->
     <td style="padding: 10px; border: none;">
-      <img src="https://miro.medium.com/v2/resize:fit:1400/0*XuBHZzSmxp8sKmHC.png" alt="folium" width="70">
+      <img src="https://miro.medium.com/v2/resize:fit:1400/0*XuBHZzSmxp8sKmHC.png" alt="folium" width="90">
     </td>
   </tr>
 </table>

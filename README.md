@@ -49,6 +49,26 @@ On the generated map, size and color indicators are used to represent the events
 
 ![Mapa_HTML](/assets/img/mapa_html.PNG)
 
+### Used tools
+<table style="width: 100%; border-collapse: collapse;">
+  <tr style="text-align: center;">
+    <!-- Columna 1: Logo de Python -->
+    <td style="padding: 10px;">
+      <img src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" alt="Python" width="50">
+    </td>
+    <!-- Columna 2: Texto "Libraries" centrado -->
+    <td style="padding: 10px; font-weight: bold; text-align: center; vertical-align: middle;">
+      Libraries
+    </td>
+    <!-- Columna 3: Logos de las librerías -->
+    <td style="padding: 10px;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9F8WH5YpCtlWec7hlDm7mj8WjqOt9RdKoVg&s" alt="pandas" width="90">
+      <img src="https://geopandas.org/en/stable/_images/geopandas_logo.png" alt="geopandas" width="130">
+      <img src="https://miro.medium.com/v2/resize:fit:1400/0*XuBHZzSmxp8sKmHC.png" alt="folium" width="110">
+    </td>
+  </tr>
+</table>
+
 
 ## Publications
 1. López Aguirre , A.  (2023).  Ubicación y dimensionamiento óptimo de GD renovables en redes de distribución en DC usando un enfoque estocástico multiobjetivo.    Universidad Tecnológica de Pereira.  Avalaible on: https://hdl.handle.net/11059/14585

@@ -50,21 +50,27 @@ On the generated map, size and color indicators are used to represent the events
 ![Mapa_HTML](/assets/img/mapa_html.PNG)
 
 ### Used tools
-<table style="width: 100%; border-collapse: collapse;">
-  <tr style="text-align: center;">
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr style="text-align: center; border: none;">
     <!-- Columna 1: Logo de Python -->
-    <td style="padding: 10px;">
-      <img src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" alt="Python" width="50">
+    <td style="padding: 10px; border: none;">
+      <img src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" alt="Python" width="30">
     </td>
     <!-- Columna 2: Texto "Libraries" centrado -->
-    <td style="padding: 10px; font-weight: bold; text-align: center; vertical-align: middle;">
+    <td style="padding: 10px; font-weight: bold; text-align: center; vertical-align: middle; border: none;">
       Libraries
     </td>
-    <!-- Columna 3: Logos de las librerías -->
-    <td style="padding: 10px;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9F8WH5YpCtlWec7hlDm7mj8WjqOt9RdKoVg&s" alt="pandas" width="90">
-      <img src="https://geopandas.org/en/stable/_images/geopandas_logo.png" alt="geopandas" width="130">
-      <img src="https://miro.medium.com/v2/resize:fit:1400/0*XuBHZzSmxp8sKmHC.png" alt="folium" width="110">
+    <!-- Columna 3: Logo de pandas -->
+    <td style="padding: 10px; border: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="pandas" width="60">
+    </td>
+    <!-- Columna 4: Logo de geopandas -->
+    <td style="padding: 10px; border: none;">
+      <img src="https://geopandas.org/en/stable/_images/geopandas_logo.png" alt="geopandas" width="90">
+    </td>
+    <!-- Columna 5: Logo de folium -->
+    <td style="padding: 10px; border: none;">
+      <img src="https://miro.medium.com/v2/resize:fit:1400/0*XuBHZzSmxp8sKmHC.png" alt="folium" width="70">
     </td>
   </tr>
 </table>

@@ -47,6 +47,11 @@ This project focuses on identifying components that have experienced the most fa
 
 On the generated map, size and color indicators are used to represent the events that have occurred at each circuit component. This visual representation allows for quick and intuitive identification of elements that have a significant impact on the failures perceived by the study element. It also facilitates decision-making and corrective action planning.
 
+### Iterative Electrical Sweep for Power Distribution Networks using DFS
+[Repository](https://github.com/Zarcasmo/DeepCircuitMapper)
+
+Developed a robust Python tool to analyze the topology and connectivity of medium-voltage power distribution networks. The system applies an iterative depth-first search (DFS) to identify energized components, open/closed switches, and detect network loops or inter-circuit transfers. Data is ingested from CSV files or Oracle databases and processed into structured DataFrames. Results are visualized using Graphviz, generating clear SVG diagrams that represent the electrical path, status of switching devices, and interconnections. This solution was deployed at EDEQ (Energy Company of Quindío) to improve network reliability and asset visibility.
+
 ![Mapa_HTML](/assets/img/mapa_html.PNG)
 
 ### Used tools

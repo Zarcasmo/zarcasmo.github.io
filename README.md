@@ -47,7 +47,7 @@ This project focuses on identifying components that have experienced the most fa
 
 On the generated map, size and color indicators are used to represent the events that have occurred at each circuit component. This visual representation allows for quick and intuitive identification of elements that have a significant impact on the failures perceived by the study element. It also facilitates decision-making and corrective action planning.
 
-![Mapa_HTML](/assets/img/mapa_html.PNG)
+<img src="/assets/img/mapa_html.PNG" alt="drawing" width="700"/>
 
 ### Used tools
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -71,6 +71,10 @@ On the generated map, size and color indicators are used to represent the events
     <!-- Columna 5: Logo de folium -->
     <td style="padding: 10px; border: none;">
       <img src="https://miro.medium.com/v2/resize:fit:1400/0*XuBHZzSmxp8sKmHC.png" alt="folium" width="100">
+    </td>
+    <!-- Columna 6: Logo de SQL -->
+    <td style="padding: 10px; border: none;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_lTeBk0QdOhzcE4vM82jU6DESzpm27PmiGA&s" alt="SQL" width="50">
     </td>
   </tr>
 </table>
@@ -80,7 +84,7 @@ On the generated map, size and color indicators are used to represent the events
 
 Developed a robust Python tool to analyze the topology and connectivity of medium-voltage power distribution networks. The system applies an iterative depth-first search (DFS) to identify energized components, open/closed switches, and detect network loops or inter-circuit transfers. Data is ingested from CSV files or Oracle databases and processed into structured DataFrames. Results are visualized using Graphviz, generating clear SVG diagrams that represent the electrical path, status of switching devices, and interconnections. This solution was deployed at EDEQ (Energy Company of Quindío) to improve network reliability and asset visibility.
 
-![Mapa_HTML](/assets/img/DFS_Repository2.png)
+<img src="/assets/img/DFS_Repository2.png" alt="drawing" width="650"/>
 
 ### Used tools
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -97,13 +101,13 @@ Developed a robust Python tool to analyze the topology and connectivity of mediu
     <td style="padding: 10px; border: none;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="pandas" width="90">
     </td>
-    <!-- Columna 4: Logo de geopandas -->
+    <!-- Columna 4: Logo de Graphviz -->
     <td style="padding: 10px; border: none;">
-      <img src="https://geopandas.org/en/stable/_images/geopandas_logo.png" alt="geopandas" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/en/4/48/GraphvizLogo.png" alt="geopandas" width="80">
     </td>
-    <!-- Columna 5: Logo de folium -->
+    <!-- Columna 5: Logo de SQL -->
     <td style="padding: 10px; border: none;">
-      <img src="https://miro.medium.com/v2/resize:fit:1400/0*XuBHZzSmxp8sKmHC.png" alt="folium" width="100">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_lTeBk0QdOhzcE4vM82jU6DESzpm27PmiGA&s" alt="SQL" width="50">
     </td>
   </tr>
 </table>
